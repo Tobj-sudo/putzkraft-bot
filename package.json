@@ -12,9 +12,11 @@
   "author": "",
   "license": "UNLICENSED",
   "dependencies": {
+    "@discordjs/voice": "^0.18.0",
     "axios": "^1.7.7",
     "discord.js": "^14.16.3",
-    "dotenv": "^16.4.5"
+    "dotenv": "^16.4.5",
+    "ffmpeg-static": "^5.2.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.15.0",
